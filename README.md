@@ -1,6 +1,6 @@
 ### Hi there, I'm Simon 👋
 
-I am a Data Scientist (I took a 15 week Bootcamp at WBS Coding School) with a background in electrial engineering and information technology (B.Eng.) and Theology (no degree) in the past. You can reach me per email at simon.mayer90 [at] gmail [dot] com.
+I am a Data Scientist with a background in electrial engineering and information technology (B.Eng.). You can reach me per email at simon.mayer90 [at] gmail [dot] com.
 
 <!--
 **simonmayer90/simonmayer90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
